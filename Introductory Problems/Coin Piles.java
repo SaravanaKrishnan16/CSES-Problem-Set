@@ -7,8 +7,8 @@ Output
 For each test, print "YES" if you can empty the piles and "NO" otherwise.
 Constraints
 
-1 \le t \le 10^5
-0 \le a, b \le 10^9
+1 <= t <= 10^5
+0 <= a,b <= 10^9
 
 Example
 Input:
